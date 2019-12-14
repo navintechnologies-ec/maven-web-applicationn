@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.38.150:8081/repository/rocky-releases//</url>
+	      <url>http://13.232.38.150:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repo</name>
-	      <url>http://13.232.38.150:8081/repository/rocky-snapshots/</url>
+	      <url>http://13.232.38.150:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
